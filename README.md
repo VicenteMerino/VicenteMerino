@@ -8,7 +8,7 @@
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VicenteMerino&theme=gotham&custom_title=WakaTime's%20Last%20Week%20Stats)
 
 
-![VicenteMerino's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteMerino&theme=gotham&&layout=compact&custom_title=Github%20Repo's%20Top%20Languages&langs_count=10)
+![VicenteMerino's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteMerino&theme=gotham&&layout=compact&custom_title=Github%20Repo's%20Top%20Languages&langs_count=10&hide=jupyter%20notebook)
 
 
 <!--
