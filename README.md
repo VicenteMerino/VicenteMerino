@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ### Github stats 🚀
+![github contribution grid snake animation](https://raw.githubusercontent.com/VicenteMerino/VicenteMerino/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 ![VicenteMerino's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicenteMerino&theme=gotham&show_icons=true&include_all_commits=true&count_private=true) 
 
