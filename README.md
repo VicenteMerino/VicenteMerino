@@ -13,6 +13,8 @@
 ![VicenteMerino's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteMerino&theme=gotham&&layout=compact&custom_title=Github%20Repo's%20Top%20Languages&langs_count=10&hide=jupyter%20notebook)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=VicenteMerino&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **VicenteMerino/VicenteMerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
